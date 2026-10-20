@@ -13,9 +13,18 @@ public class CustomerEurekaApplication {
 String msg="vasuroyal"
 		String msg="vasuroyal";
 	}
+<<<<<<< Updated upstream
 //jira 104
 public void m3()
 {
+=======
+//jira 101
+public void m2()
+{
+int i=10;
+int j=20;
+}
+>>>>>>> Stashed changes
 
 }
 }
