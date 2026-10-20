@@ -13,5 +13,9 @@ public class CustomerEurekaApplication {
 String msg="vasuroyal"
 		String msg="vasuroyal";
 	}
+//jira 104
+public void m3()
+{
 
+}
 }
