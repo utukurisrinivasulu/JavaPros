@@ -11,6 +11,7 @@ public class CustomerEurekaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerEurekaApplication.class, args);
 String msg="vasuroyal"
+		String msg="vasuroyal";
 	}
 
 }
